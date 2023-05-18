@@ -1,4 +1,4 @@
-const enddate = "11 may 2023 10:00 am";
+const enddate = "21 may 2023 11:00 am";
 
 const dates = (document.getElementById("endwali").innerHTML = enddate);
 const input = document.querySelectorAll("input");
